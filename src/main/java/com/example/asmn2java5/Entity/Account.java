@@ -2,7 +2,7 @@ package com.example.asmn2java5.Entity;
 import jakarta.persistence.*;
 import lombok.Data;
 @Entity
-@Table(name = "Account")
+@Table(name = "AccountService")
 @Data
 public class Account {
     @Id
